@@ -13,7 +13,7 @@ Before conducting any analysis, we performed data cleaning to ensure the accurac
 Tableau Visualizations: 
 
 The results of our data analysis are visualized using Tableau, providing an interactive and intuitive way to explore the data. We have created various Tableau dashboards and visualizations, including maps, charts, and graphs, to help users understand crime patterns in Buenos Aires.
-You can explore the Tableau visualizations at: https://public.tableau.com/app/profile/joel.dos.santos/vizzes.
+You can explore the Tableau visualizations at https://public.tableau.com/app/profile/joel.dos.santos/viz/BuenosAiresCrimeDashboard/Dashboard1.
 
 Contributing: 
 
