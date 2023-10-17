@@ -1,6 +1,6 @@
 # BuenosAiresCrimesAnaysis
 
-This GitHub repository hosts a data analysis project that focuses on crimes that occurred in Buenos Aires in the year 2022. The project involves data cleaning, querying using SQL, and visualization using Tableau. Our goal is to provide insights into crime trends, patterns, and hotspots in Buenos Aires, which can be valuable for law enforcement agencies, policymakers, and the general public.
+This GitHub repository hosts a data analysis project that focuses on crimes that occurred in Buenos Aires in the year 2016-2021. The project involves data cleaning, querying using SQL, and visualization using Tableau. Our goal is to provide insights into crime trends, patterns, and hotspots in Buenos Aires, which can be valuable for law enforcement agencies, policymakers, and the general public.
 
 Data Sources:
 
